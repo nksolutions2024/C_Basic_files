@@ -4,6 +4,6 @@ void main(){
     int rollno;
     printf("enter your roll no. = ");
     scanf("%d",&rollno);
-    printf("hello %d",rollno);
+    printf("hello student with roll no. = %d",rollno);
 
 }
