@@ -1,5 +1,9 @@
 #include<stdio.h>
 
 void main(){
-    printf("jkdhfkfd");
+    int rollno;
+    printf("enter your roll no. = ");
+    scanf("%d",&rollno);
+    printf("hello %d",rollno);
+
 }
