@@ -8,7 +8,8 @@ void main(){
     printf("\n\n%d",sizeof(double));
     printf("\n%d",sizeof(long));
     printf("\n%d",sizeof(long int));
-    printf("\n%d",sizeof(long long int));
+    printf("\n\n%d",sizeof(long long int));
+    printf("\n%d",sizeof(long double ));
 }
 //output
 // 4
@@ -18,4 +19,6 @@ void main(){
 // 8
 // 4
 // 4
+
 // 8
+// 12
