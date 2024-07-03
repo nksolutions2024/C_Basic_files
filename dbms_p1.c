@@ -1,15 +1,3 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-Conversations
-4.99 GB of 15 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 4 hours ago
-Details
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -92,5 +80,3 @@ int main()
 
     return 0;
 }
-WORKING__update_d_s.c
-Displaying WORKING__update_d_s.c.
